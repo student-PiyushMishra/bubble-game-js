@@ -108,7 +108,7 @@ html,body{
     .gamepad>.dets{
         padding: 1rem;
         font-size: smaller;
-        gap: 2rem;
+        gap: 1.6remrem;
         flex-wrap: wrap;
     }
     .gamepad>.dets span{
